@@ -14,15 +14,8 @@ Instruction to run the program
 1. Create a `TrainingImage` folder in a project.
 
 2. Open a `main.py` and ensure to change all paths with your own system path
-
-3. Create two database in Mysql with the following names
-- Face_reco_fill  - manually_fill_attendance 
       
-creating table is not required only database creation is needed.
-
-4. Run `main.py`
-
-
+3. Run `main.py`
 
 Guide to use the application will be explained during meeting
 
